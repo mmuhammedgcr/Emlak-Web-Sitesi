@@ -1,0 +1,82 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\ApplicationInsights.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Emlak.dll.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Emlak.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Emlak.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.Web.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.ApplicationInsights.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Threading.Tasks.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\System.IO.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\System.Runtime.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\bin\System.Threading.Tasks.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.csproj.App.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\ApplicationInsights.config
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Emlak.dll.config
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Emlak.dll
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Emlak.pdb
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\System.IO.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\System.Runtime.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\bin\System.Threading.Tasks.xml
+C:\Users\Lenovo\Desktop\Emlak\Emlak\obj\Debug\Emlak.csproj.App.config
+C:\Users\Lenovo\Desktop\Emlak\Emlak\obj\Debug\Emlak.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Emlak\Emlak\obj\Debug\Emlak.dll
+C:\Users\Lenovo\Desktop\Emlak\Emlak\obj\Debug\Emlak.pdb
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\ApplicationInsights.config
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Emlak.dll.config
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Emlak.dll
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Emlak.pdb
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.DependencyCollector.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.Web.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.AI.WindowsServer.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.ApplicationInsights.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Threading.Tasks.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\System.IO.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\System.Runtime.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\bin\System.Threading.Tasks.xml
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.csproj.App.config
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.csprojResolveAssemblyReference.cache
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.dll
+E:\Windows8 den\Belgelerim\Visual Studio 2015\Projects\Emlak\Emlak\obj\Debug\Emlak.pdb
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\ApplicationInsights.config
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Emlak.dll.config
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Emlak.dll
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Emlak.pdb
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.AI.Web.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.AI.WindowsServer.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.ApplicationInsights.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.Threading.Tasks.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\System.IO.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\System.Runtime.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\bin\System.Threading.Tasks.xml
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\obj\Debug\Emlak.csproj.App.config
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\obj\Debug\Emlak.csproj.CopyComplete
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\obj\Debug\Emlak.dll
+E:\Dosyalar\Yapılan Projeler\Emlak_Prpjesi\Emlak\Emlak\obj\Debug\Emlak.pdb
